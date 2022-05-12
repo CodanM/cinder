@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "107991311272",
+    "firebase_url": "https://myserieslist-native-51b7e-default-rtdb.firebaseio.com",
+    "project_id": "myserieslist-native-51b7e",
+    "storage_bucket": "myserieslist-native-51b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107991311272:android:26ba726063319e266f339d",
+        "android_client_info": {
+          "package_name": "com.codan.cinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107991311272-5k4a69rjfpn4edp9p9rsafr5vhjrj842.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_2xMDaFRRr61PEJPysCvIQY_akM_paw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107991311272-5k4a69rjfpn4edp9p9rsafr5vhjrj842.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
